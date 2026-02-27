@@ -1,0 +1,3 @@
+tasks1 : create a simple helloworld script.
+task 2 : document how to run it
+task 3: add basic version info
